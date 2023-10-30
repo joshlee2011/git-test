@@ -1,4 +1,4 @@
-let a = 123;
+let a = 123456;
 console.log(a);
 
 let b = "hi";
